@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Atharv Dubey</h1>
-<h3 align="center">Passionate about Systems Programming, Web Development, and High-Performance Applications</h3>
+<h3 align="center">Passionate about System Programming, Web Development, and High-Performance Applications</h3>
 
 ---
 
